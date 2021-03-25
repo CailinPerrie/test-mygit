@@ -10,3 +10,6 @@ y*z
 
 ## what happens if you make a mistake?? (Lecturew Vid 4)
 ## add a new script called addding.R
+
+## lets make a series of changes
+xx <- 10
