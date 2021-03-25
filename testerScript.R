@@ -7,3 +7,6 @@ y <- 2* x
 
 z <- x*15
 y*z
+
+## what happens if you make a mistake?? (Lecturew Vid 4)
+## add a new script called addding.R
